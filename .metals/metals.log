@@ -20902,3 +20902,35 @@ WARNING: expected identifier; obtained rbrace (full report at: /Users/sarveshmha
 2025.04.29 13:30:43 INFO  shutting down Metals
 2025.04.29 13:30:43 INFO  Shut down connection with build server.
 2025.04.29 13:30:43 INFO  Exiting server
+2025.04.29 18:49:31 INFO  Started: Metals version 1.5.2 in folders '/Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL' for client Visual Studio Code 1.99.3.
+2025.04.29 18:49:34 INFO  Attempting to connect to the build server...
+2025.04.29 18:49:34 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.6.4/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.6.4, --repository, file:///opt/homebrew/Cellar/scala/3.6.4/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-launcher-options.json, --envs-file, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-envs.json, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL)
+2025.04.29 18:49:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.metals/bsp.trace.json or /Users/sarveshmhadgut/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.29 18:49:38 INFO  time: Connected to build server in 4.5s
+2025.04.29 18:49:38 INFO  Connected to Build server: scala v1.5.4
+2025.04.29 18:49:40 INFO  time: indexed workspace in 2.14s
+2025.04.29 19:51:34 INFO  Shutting down server
+2025.04.29 19:51:34 INFO  shutting down Metals
+2025.04.29 19:51:34 INFO  Shut down connection with build server.
+2025.04.29 19:51:34 INFO  Exiting server
+2025.04.29 20:41:20 INFO  Started: Metals version 1.5.2 in folders '/Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL' for client Visual Studio Code 1.99.3.
+Apr 29, 2025 8:41:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.29 20:41:21 INFO  Attempting to connect to the build server...
+2025.04.29 20:41:21 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.6.4/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.6.4, --repository, file:///opt/homebrew/Cellar/scala/3.6.4/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-launcher-options.json, --envs-file, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-envs.json, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL)
+2025.04.29 20:41:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.metals/bsp.trace.json or /Users/sarveshmhadgut/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.29 20:41:24 INFO  time: Connected to build server in 2.82s
+2025.04.29 20:41:24 INFO  Connected to Build server: scala v1.5.4
+2025.04.29 20:41:26 INFO  time: indexed workspace in 1.96s
+2025.04.29 20:59:45 INFO  Shutting down server
+2025.04.29 20:59:45 INFO  shutting down Metals
+2025.04.29 20:59:45 INFO  Shut down connection with build server.
+2025.04.29 20:59:45 INFO  Exiting server
+2025.04.29 20:59:57 INFO  Started: Metals version 1.5.2 in folders '/Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL' for client Visual Studio Code 1.99.3.
+2025.04.29 20:59:58 INFO  Attempting to connect to the build server...
+2025.04.29 20:59:58 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.6.4/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.6.4, --repository, file:///opt/homebrew/Cellar/scala/3.6.4/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-launcher-options.json, --envs-file, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.scala-build/ide-envs.json, /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL)
+2025.04.29 20:59:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sarveshmhadgut/Documents/SEM - VI /DSBDAL/.metals/bsp.trace.json or /Users/sarveshmhadgut/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.29 21:00:04 INFO  time: Connected to build server in 5.25s
+2025.04.29 21:00:04 INFO  Connected to Build server: scala v1.5.4
+2025.04.29 21:00:04 INFO  time: Imported build in 0.22s
+2025.04.29 21:00:08 INFO  time: indexed workspace in 3.87s
