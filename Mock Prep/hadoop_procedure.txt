@@ -1,0 +1,16 @@
+
+
+export HADOOP_CLASSPATH=$(hadoop classpath)
+
+echo $HADOOP_CLASSPATH
+
+hadoop fs -mkdir Word_Counter2/input
+
+
+javac -classpath ${HADOOP_CLASSPATH} -d '/home/sarveshm/Downloads/Word_Count/classes' '/home/sarveshm/Downloads/Word_Count/wordCount.java'
+
+jar -cvf WordCounter.jar -C /home/sarveshm/Downloads/Word_Count/classes .
+
+
+hadoop jar jarfile classname input output
+Hadoop dis -cat output
