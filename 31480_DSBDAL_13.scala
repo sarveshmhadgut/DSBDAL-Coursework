@@ -39,3 +39,13 @@ object BubbleSortApp {
     println(s"Sorted array: ${sorted.mkString(", ")}")
   }
 }
+
+
+object WordCounter {
+  def main(text: String): Unit = {
+    val words = text.split("\\s+").toSeq
+    val rdd = sc.parallelize(words)
+    val counts = rdd.map(word => (word, 1)).reduceByKey(_ + _)
+    counts.collect().foreach(println)
+  }
+}
